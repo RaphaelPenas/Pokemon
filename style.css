@@ -4,9 +4,7 @@
     box-sizing: border-box;
 }
 
-html, body {
-    height: 100%;
-}
+
 
 
 body{
@@ -100,9 +98,4 @@ input {
     max-width: 80%;  
     height: auto;  
 }
-@media (max-width: 768px) {
-    body {
-        background-size: contain; /* Ajusta a imagem para caber melhor na tela */
-        background-position: center;
-    }
-}
+
